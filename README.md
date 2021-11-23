@@ -1,4 +1,4 @@
-# Exercício RSS
+# Exercício RSS (solicitado pelo professor e implementado)
 
 A aplicação `rss` está parcialmente implementada no momento. 
 A versão atual da aplicação já tem um esqueleto de código para comportar dois contextos, um com uma lista de feeds RSS onde devem ser buscadas notícias, e outro para as notícias específicas de um feed. Atualmente, o estado está *hard-coded* estaticamente.
